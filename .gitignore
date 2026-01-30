@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Token Transfer Files
+token_transfers.csv
+token_transfers_V2.0.0.csv
+token_transfers_V3.0.0.csv

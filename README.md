@@ -16,3 +16,9 @@ Databusters leverages the cross-disciplinary training of DSE and ECDS students a
 ### Covered topics
 * 2008 financial crash
 * 2022 Terra Luna crash
+
+## Packages used
+* Pandas
+* Matplotib
+* Seaborn
+* MplFinance
